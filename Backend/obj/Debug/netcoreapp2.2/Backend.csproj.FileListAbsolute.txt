@@ -1,0 +1,16 @@
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\Backend.deps.json
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\Backend.runtimeconfig.json
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\Backend.runtimeconfig.dev.json
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\Backend.dll
+C:\Users\llandin\Downloads\BackEndRepo\Backend\bin\Debug\netcoreapp2.2\Backend.pdb
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.RazorAssemblyInfo.cache
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.RazorAssemblyInfo.cs
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfoInputs.cache
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfo.cs
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.dll
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.pdb
+C:\Users\llandin\Downloads\BackEndRepo\Backend\obj\Debug\netcoreapp2.2\Backend.csprojAssemblyReference.cache

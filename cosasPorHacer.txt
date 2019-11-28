@@ -1,0 +1,37 @@
+-API que devuelva la info del usuario logueado
+-GetCarteraUsuario campo total de especies
+-una lista de especies especies que devuelva todo con su ultimo cierre
+-API de listar todo de una especie
+
+
+-sumar activa o inactiva a las GetCarteraUsuario //listo
+-sacar porcentaje de diferencia entre el ultimo cierre que tenes menos el anterior. para mostrar en el detalle de la cartera. total 
+-sacar porcentaje de diferencia entre el ultimo cierre contra la fecha que añadio la especie a la cartera, campo fechaOperacion de la cartera. Dia
+-
+
+Datos:
+-ETL actualizado
+-tabla de expectativa de mercado
+
+backend:
+-disable cartera
+-Movimientos en los últimos 30 días de especie (gráfico de dona): listo backend
+-MM50 (Media móvil de 50, cuadradito rojo) 
+-MACD (cuadradito azul):
+-Acciones de expectativa de mercado
+ 
+frontend:
+-Update de especies - a mi me anda en postman https://localhost:44330/especie/Update
+-Quitar especies - a mi me anda en anda en postman https://localhost:44330/especie/Delete
+-llamar a los detalle de especies con el string TICKER
+    -https://localhost:44330/especie/GetEspecieByTiket
+    -https://localhost:44330/especie/GetEspecieMax  //devuelve un decimal
+        
+-Movimientos en los últimos 30 días de especie (gráfico de dona). consumir https://localhost:44330/especie/GetEspecieMovimientoUltimoMes
+-Gràfico Principal (el azul): consumir api https://localhost:44330/especie/GetEspecieUltimoAño y graficarlo
+-armar MM50 (Media móvil de 50, cuadradito rojo) 
+-armar MACD (cuadradito azul):
+-con que libreria estamos graficando? lo pregunto el profe
+-cuadrito para votar sobre expectativa de mercado...
+
+
